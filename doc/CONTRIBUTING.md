@@ -14,6 +14,7 @@ Please report all bugs on the [issue tracker](https://github.com/aprilahijriyan/
 ## Submitting code changes
 
 All code contributions are greatly **appreciated**.
+
 **NOTE**: Do not touch anything inside `thirdparty/` folder.
 
 ### Guidelines
