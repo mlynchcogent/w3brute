@@ -9,37 +9,37 @@ Features
 
 1. Scanner:
 
-   w3brute has a scanner feature that serves to support the **bruteforce attack** process.
-   this is a list of available scanners:
-   
-       * automatically detects target authentication type.
-       * admin page scanner.
-       * SQL injection scanner vulnerability.
+w3brute has a scanner feature that serves to support the **bruteforce attack** process.
+this is a list of available scanners:
+
+* automatically detects target authentication type.
+* admin page scanner.
+* SQL injection scanner vulnerability.
 
 2. Attack Method:
 
-   w3brute can attack using various methods of attack.
-   this is a list of available attack methods:
-   
-       * SQL injection bypass authentication
-       * mixed credentials (username + SQL injection queries)
+w3brute can attack using various methods of attack.
+this is a list of available attack methods:
+
+* SQL injection bypass authentication
+* mixed credentials (username + SQL injection queries)
 
 4. Support:
 
-       * multiple target
-       * google dorking
-       * a list of supported web interface types to attack:
-           + **web shell**
-           + **HTTP 401 UNAUTHORIZED** (*Basic* and *Digest*)
-       
-       * create file results **brute force** attack. supported file format type: 
-           + **CSV** (default)
-           + **HTML**
-           + **SQLITE3**
-       
-       * custom credentials (username, password, domain) (supported **zip** file) 
-       * custom HTTP requests (User-Agent, timeout, etc)
-       * and much more...
+* multiple target
+* google dorking
+* a list of supported web interface types to attack:
+   + **web shell**
+   + **HTTP 401 UNAUTHORIZED** (*Basic* and *Digest*)
+
+* create file results **brute force** attack. supported file format type: 
+   + **CSV** (default)
+   + **HTML**
+   + **SQLITE3**
+
+* custom credentials (username, password, domain) (supported **zip** file) 
+* custom HTTP requests (User-Agent, timeout, etc)
+* and much more...
 
 
 Screenshot
