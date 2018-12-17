@@ -1,5 +1,5 @@
 Aprila Hijriyan [@aprila.hijriyan](https://fb.me/aprila.hijriyan)
-<hijriyan23(at)gmail(dot)com>
+* mail: hijriyan23@gmail.com
 
 You can contact me about this project to:
-<w3brute(at)gmail(dot)com>
+* mail: w3brute@gmail.com
