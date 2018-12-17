@@ -24,7 +24,7 @@ this is a list of available attack methods:
 * SQL injection bypass authentication
 * mixed credentials (username + SQL injection queries)
 
-4. Support:
+3. Support:
 
 * multiple target
 * google dorking
