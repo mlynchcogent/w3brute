@@ -3,5 +3,7 @@ sudo: false
 python:
     - "2.6"
     - "2.7"
+before_script:
+    - cd .
 script:
     - python -c "import webforcer"
