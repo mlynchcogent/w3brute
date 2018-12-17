@@ -8,6 +8,7 @@ Features
 --------
 
 1. Scanner:
+
    w3brute has a scanner feature that serves to support the **bruteforce attack** process.
    this is a list of available scanners:
    
@@ -16,6 +17,7 @@ Features
        * SQL injection scanner vulnerability.
 
 2. Attack Method:
+
    w3brute can attack using various methods of attack.
    this is a list of available attack methods:
    
@@ -23,6 +25,7 @@ Features
        * mixed credentials (username + SQL injection queries)
 
 4. Support:
+
        * multiple target
        * google dorking
        * a list of supported web interface types to attack:
@@ -42,7 +45,7 @@ Features
 Screenshot
 ----------
 
-![image](link)
+![image](https://github.com/aprilahijriyan/w3brute/blob/master/screenshot.jpg)
 
 
 Installation
