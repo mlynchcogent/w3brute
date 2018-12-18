@@ -1,6 +1,6 @@
 # W3brute - Automatic Web Application Brute Force Attack Tool 
 
-[![Build Status](https://travis-ci.com/aprilahijriyan/w3brute.svg?branch=master)](https://api.travis-ci.com/aprilahijriyan/w3brute) [![Python 2.6|2.7](https://img.shields.io/badge/python-2.6|2.7-yellow.svg)](https://www.python.org/downloads/) [![License](https://img.shields.io/badge/license-LGPLv3-green.svg)](https://raw.githubusercontent.com/aprilahijriyan/w3brute/master/LICENSE)
+[![Build Status](https://travis-ci.com/aprilahijriyan/w3brute.svg?branch=master)](https://travis-ci.com/aprilahijriyan/w3brute) [![Python 2.6|2.7](https://img.shields.io/badge/python-2.6|2.7-yellow.svg)](https://www.python.org/downloads/) [![License](https://img.shields.io/badge/license-LGPLv3-green.svg)](https://raw.githubusercontent.com/aprilahijriyan/w3brute/master/LICENSE)
 
 w3brute is an open source penetration testing tool that automates attacks directly to the website's login page. w3brute is also supported for carrying out brute force attacks on all websites.
 
