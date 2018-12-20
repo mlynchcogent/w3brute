@@ -72,10 +72,13 @@ Examples:
 
 # basic usage
 $ python w3brute.py -t http://www.example.com/admin/login.php
+
 # look for the admin page
 $ python w3brute.py -t http://www.example.com/ --admin
+
 # uses a password file zip list. (syntax => <path><;filename>[:password])
 $ python w3brute.py -t http://www.example.com/ --admin -u admin -p /path/to/file.zip;filename.txt # (if the file is encrypted: /path/to/file.zip;filename.txt:password)
+
 # slice the password from the list. (syntax => <start>[:stop][:step])
 $ python w3brute.py -t http://www.example.com/ --admin -u admin -sP 20000
 
