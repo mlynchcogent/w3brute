@@ -10,6 +10,7 @@ Features
 1. Scanner:
 
    w3brute has a scanner feature that serves to support the **bruteforce attack** process.
+   
    this is a list of available scanners:
 
    * automatically detects target authentication type.
@@ -19,6 +20,7 @@ Features
 2. Attack Method:
 
    w3brute can attack using various methods of attack.
+   
    this is a list of available attack methods:
 
    * SQL injection bypass authentication
@@ -52,6 +54,7 @@ Installation
 ------------
 
 You can download the latest version of the tarball file [here](https://github.com/aprilahijriyan/w3brute/tarball/master) or zipball [here](https://github.com/aprilahijriyan/w3brute/zipball/master).
+
 If you have installed the `git` package, you can clone the [Git repository](https://github.com/aprilahijriyan/w3brute) in a way, as below: 
 
     git clone https://github.com/aprilahijriyan/w3brute.git
@@ -102,7 +105,9 @@ Donate
 ------
 
 Process of making w3brute costs a lot of time, thought, energy and of course also consumes a lot of food and coffee, and also internet connection! xD
-If you support me and want to see a growing w3brute, of course you need to donate a little money to me, as a sign that you appreciate this project. 
+
+If you support me and want to see a growing w3brute, of course you need to donate a little money to me, as a sign that you appreciate this project.
+
 You can send your money via PayPal to: **donate.w3brute@gmail.com**
 
 
